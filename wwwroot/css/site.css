@@ -1,0 +1,60 @@
+html {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color:white;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.cleanRef{
+    text-decoration:none;
+    color:white;
+}
+
+footer {
+    background-color: white;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+
+.contatos {
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-success {
+    background-color: lightseagreen;
+    border:none;
+}
+
+.contactUs{
+    background-image:src("~/img/contactUs.jpg")
+}
+
+.shadow-card {
+    box-shadow: black 0.1em 0.1em 0.1em;
+}
+
+-div{
+    border:solid;
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29fc7460-2703-4f77-80e9-e77fc6f73ebd": {
+      "ProjectGuid": "29fc7460-2703-4f77-80e9-e77fc6f73ebd",
+      "DisplayName": "AtividadeModulo3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
